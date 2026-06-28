@@ -4,7 +4,7 @@ Submitted by: **Long Ta**
 
 About this web app: **Bolt Bucket is a custom car builder web app that allows users to personalize a car by choosing exterior color, wheels, interior, engine, and package options. The app dynamically updates the car preview and total price as options are selected. Users can save custom cars to a PostgreSQL database, view all saved cars, edit existing cars, view details, and delete cars.**
 
-Time spent: **12** hours
+Time spent: **8** hours
 
 ## Required Features
 
@@ -45,16 +45,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='YOUR_GIF_LINK_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='WEB103project4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with **ScreenToGif**
 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
